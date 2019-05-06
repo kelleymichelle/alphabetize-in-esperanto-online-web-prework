@@ -1,7 +1,6 @@
 require 'pry'
 
-ESPY = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-
 def alphabetize(arr)
+  espy = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   binding.pry
 end
